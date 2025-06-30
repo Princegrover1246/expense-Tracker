@@ -10,4 +10,3 @@ Benefits of this tracker system,
    4.Decrease your expenditure by sector-wise report</br>
 
 This project uses HTML,CSS,JavaScript,JSP,Java,MYSQL.
-Deployed in heroku:https://expense-today.herokuapp.com/
